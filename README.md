@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/stats-preview-card-component-using-bem-SkIH4qdHc)
-- Live Site URL: (https://mariushor.github.io/Stats-preview-card-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-bem-SkIH4qdHc)
+- [Live Site URL](https://mariushor.github.io/Stats-preview-card-component/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MariusHor)
+- Frontend Mentor - [@mariusHor](https://www.frontendmentor.io/profile/MariusHor)
